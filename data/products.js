@@ -656,5 +656,21 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "azb35ef3-8d6f-4eb3-bc9b-a6ea49047d8f",
+    image: "images/products/umbrella.jpg",
+    name: "Windproof Umbrella,12 Ribs Auto Open/Close Button, Large Travel Umbrella with Leather Case",
+    rating: {
+      stars: 4.5,
+      count: 107
+    },
+    priceCents: 2199,
+    keywords: [
+      "umbrella",
+      "auto open",
+      "large",
+      "travel"
+    ]
   }
 ];
